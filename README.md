@@ -1,0 +1,20 @@
+# ESGF data management
+
+Data management for ESGF.
+
+If you want to download data, fill a [request for ESGF data](https://github.com/zequihg50/esgf-data/issues/new?template=esgf-data-request-template.md). If you need help with the tools to download data (such as esgf-download), just open a regular issue.
+
+## FAQ
+
+### How can I download data from ESGF?
+
+ESGF offers several mechanisms to download data:
+
+- [wget scripts](https://esgf.github.io/esgf-user-support/metagrid.html#metagrid-faq)
+- [esgf-download](https://github.com/ESGF/esgf-download)
+
+You may develop your own solution based on the [search API](https://esgf.github.io/esg-search/ESGF_Search_RESTful_API.html).
+
+### How do I keep track of scripts that download data?
+
+Create a folder/directory under `data-issues` whose name is the ID of the [request for ESGF data issue](https://github.com/zequihg50/esgf-data/issues/new?template=esgf-data-request-template.md). That folder will contain scripts needed to download/process data.

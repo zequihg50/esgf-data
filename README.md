@@ -18,3 +18,9 @@ You may develop your own solution based on the [search API](https://esgf.github.
 ### How do I keep track of scripts that download data?
 
 Create a folder/directory under `data-issues` whose name is the ID of the [request for ESGF data issue](https://github.com/zequihg50/esgf-data/issues/new?template=esgf-data-request-template.md). That folder will contain scripts needed to download/process data.
+
+### What is the ESGF DRS?
+
+DRS stands for Data Reference Syntax and it defines the directory/folder structure that files should follow in the file system. This is not mandatory if you are using your data for personal purposes but it is highly recommended to follow it in any download.
+
+If you have some data that has been downloaded without following the DRS and you want to organize it accordingly, you may use [esgdrs](https://esgf.github.io/esgf-prepare/drs.html).

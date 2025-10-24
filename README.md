@@ -17,7 +17,7 @@ You may develop your own solution based on the [search API](https://esgf.github.
 
 ### How do I keep track of scripts that download data?
 
-Create a folder/directory under `data-issues` whose name is the ID of the [request for ESGF data issue](https://github.com/zequihg50/esgf-data/issues/new?template=esgf-data-request-template.md). That folder will contain scripts needed to download/process data. The `issue id` can be found next to the issue's title.
+Create a folder/directory under `data-issues` whose name is the ID of the [request for ESGF data issue](https://github.com/zequihg50/esgf-data/issues/new?template=esgf-data-request-template.md). That folder will contain scripts needed to download/process data. The `issue id` is a number that can be found next to the issue's title.
 
 ![issue-id](imgs/issue-id.png)
 

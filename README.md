@@ -2,7 +2,7 @@
 
 Data management for ESGF.
 
-If you want to download data, fill a [request for ESGF data](https://github.com/zequihg50/esgf-data/issues/new?template=esgf-data-request-template.md). If you need help with the tools to download data (such as esgf-download), just open a regular issue.
+If you want to download data, fill a [request for ESGF data](https://github.com/zequihg50/esgf-data/issues/new?template=esgf-data-request-template.md). If you need help with the tools to download data (such as esgf-download), just open a [regular issue](https://github.com/zequihg50/esgf-data/issues/new).
 
 ## FAQ
 

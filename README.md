@@ -4,8 +4,8 @@ This repo keeps track of ESGF downloads.
 
 To register and download ESGF data:
 
-- Create a folder/directory under `data-issues` whose name is the ID of the [request for ESGF data issue](https://github.com/zequihg50/esgf-data/issues/new?template=esgf-data-request-template.md).
-- Fill the issue with the appropiate details.
+- Create a issue that follows the [template](https://github.com/zequihg50/esgf-data/issues/new?template=esgf-data-request-template.md).
+- Create a folder/directory under `data-issues` whose name is the numeric ID of the issue (see image below).
 - All the scripts associated with that issue have to be stored within the folder of the issue (e.g. `data-issues/1/interpolate.py`).
 
 ![issue-id](imgs/issue-id.png)

@@ -9,11 +9,12 @@ about: Describe the data you will download
 - Project, paper or activity related to the data -
 - Description of the project, paper or activity -
 - When the data will be removed - date or `never` if it needs to be archived
-- Where the data will be downloaded - choose one
+- Where the data will be downloaded - for data to be `archived` pick one of the following
   - `/lustre/gmeteo/DATA/ESGF/REPLICA/DATA` (ESGF DRS compatible)
-  - `/gpfs/...` (ESGF DRS compatible)
+  - `/gpfs/projects/meteo/DATA/ESGF` (ESGF DRS compatible)
   - IFCA cloud (provide openstack project id)
-  - Other
+  - Other (for data related to projects, papers or any other activity that will be removed after the end of the activity)
+  - For temporal data just use your home/work directory
 
 **Describe the data you want**
 

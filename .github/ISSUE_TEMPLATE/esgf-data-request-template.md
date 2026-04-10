@@ -1,25 +1,19 @@
 ---
 name: ESGF Data Request Template
-about: Describe the data you request.
-
+about: Describe the data you will download
 ---
 
 **Describe the purporse of the data.**
 
-- Who are you - use your @user
 - Who will download the data - assign the issue to that @user
 - Project, paper or activity related to the data -
 - Description of the project, paper or activity -
 - When the data will be removed - date or `never` if it needs to be archived
-- How are you going to download the data - choose one
-  - wget - ESGF wget scripts
-  - esgf-download - Official [ESGF download](https://github.com/ESGF/esgf-download) (aka [esgf-pull](https://esgf.github.io/esgf-download/))
-  - custom - You have your custom tools.
 - Where the data will be downloaded - choose one
   - `/lustre/gmeteo/DATA/ESGF/REPLICA/DATA` (ESGF DRS compatible)
   - `/gpfs/...` (ESGF DRS compatible)
-  - IFCA cloud (ping @zequihg50)
-  - Other (describe and point out if it is ESGF DRS compatible)
+  - IFCA cloud (provide openstack project id)
+  - Other
 
 **Describe the data you want**
 

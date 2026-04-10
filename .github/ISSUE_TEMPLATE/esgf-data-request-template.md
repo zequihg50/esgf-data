@@ -5,7 +5,7 @@ about: Describe the data you will download
 
 **Describe the purporse of the data.**
 
-- Who will download the data - assign the issue to that @user
+- Who is responsible - assign the issue to that @user
 - Project, paper or activity related to the data -
 - Description of the project, paper or activity -
 - When the data will be removed - date or `never` if it needs to be archived
